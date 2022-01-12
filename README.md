@@ -1,4 +1,4 @@
-# How create table in SQL
+# Creating tables in SQL
 
 	CREATE TABLE Dados1(
 	Id int IDENTITY(1, 1) PRIMARY KEY,    
